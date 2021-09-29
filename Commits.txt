@@ -1,1 +1,12 @@
-Aqui vamos a poner los commits del repositorio local. 
+ac68fee Merge branch 'main' of https://github.com/EfrenGaxiola/Remoto
+b00270a Create commit.txt
+33d40dc Initial commit
+44294ac Bug arreglado
+7dff084 Modificacion de operations
+a0d010b Arreglo de conflicto
+fff69f8 Modificacion de main a Quintero
+ef197c6 Modificacion de master
+107385a Modificacion de paramentros nueva rama
+6f6ca60 Modificacion a un parametro
+f7f12bc Segundo commit
+549b8d2 Primer commit
